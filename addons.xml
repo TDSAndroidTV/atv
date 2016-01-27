@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
 <addon id="plugin.video.atvlive" name="ATV[COLOR green]Live[/COLOR]" version="0.0.1" provider-name="TDS AndroidTV">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
